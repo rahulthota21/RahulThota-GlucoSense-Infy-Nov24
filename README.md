@@ -28,7 +28,7 @@ To get started with the project, you’ll need to set up the necessary environme
 
 ### Prerequisites
 - Python 3.5
-- Required Python libraries (listed below)
+- Required Python libraries
 
 ### Installation Instructions
 
