@@ -67,7 +67,7 @@ You can execute each of these scripts to follow through the project steps or mod
 ## Project Structure
 
   ```bash
-  Project_Diabetes/
+  RahulThota-GlucoSense-Infy-Nov24/
 ├── data/
 │   └── diabetes_dataset.csv       # Raw and cleaned data
 ├── notebooks/
